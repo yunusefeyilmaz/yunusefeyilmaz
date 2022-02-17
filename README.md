@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yunusefeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusefeyilmaz" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/yunusefeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yunusefeyilmaz" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yunusefeyilmaz" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Finterviewstreet&psig=AOvVaw0A6_M5EOSrZnc02BdO4sl2&ust=1645193723449000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCKzq32hvYCFQAAAAAdAAAAABAD" alt="yunusefeyilmaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
