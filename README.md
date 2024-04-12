@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Yunus</h1>
 <h3 align="center">I am a student at Bursa Technical University.</h3>
 <a href="https://github.com/yunusefeyilmaz" target="blank"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /></a>
-
-- 🌱 
 <a href="https://github.com/yunusefeyilmaz"> <img src="https://i.giphy.com/ue5ZwFCaxy64M.webp" width="250" align="right" /></a>
 <h3 align="left">Connect with me:</h3>
 
@@ -22,9 +20,9 @@
 </p>
 <br>
 <div style="display:flex;padding: 25px 25px 25px 25px;margin:13px" align='middle'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusefeyilmaz&layout=compact&card_width=300&theme=dark" width="300px" /> </a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=yunusefeyilmaz&theme=highcontrast&hide_border=true&card_width=300" width="300px" /> </a>
-<a href="https://github.com/yunusefeyilmaz"> <img src="https://github-readme-stats.vercel.app/api?username=yunusefeyilmaz&theme=dark&show_icons=true&card_width=300" width="300px"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusefeyilmaz&layout=compact&card_width=300&theme=dark" width="250px" /> </a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=yunusefeyilmaz&theme=highcontrast&hide_border=true&card_width=300" width="250px" /> </a>
+<a href="https://github.com/yunusefeyilmaz"> <img src="https://github-readme-stats.vercel.app/api?username=yunusefeyilmaz&theme=dark&show_icons=true&card_width=300" width="250px"/></a>
 </div>
 <br>
 
