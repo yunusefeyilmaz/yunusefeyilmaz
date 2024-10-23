@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/yunusefeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusefeyilmaz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yunusefeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunusefeyilmaz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yunusefeyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yunusefeyilmaz" height="30" width="40" /></a>
+  <a href="https://gitlab.com/yunusefeyilmaz" target="blank"><img align="center" src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" alt="yunusefeyilmaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
