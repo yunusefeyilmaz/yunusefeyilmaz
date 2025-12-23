@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">Computer Engineer | Backend Dev</h3>
+<h3 align="center">Computer Engineer</h3>
 <a href="https://github.com/yunusefeyilmaz" target="blank"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /></a>
 <a href="https://github.com/yunusefeyilmaz"> <img src="https://i.giphy.com/ue5ZwFCaxy64M.webp" width="250" align="right" /></a>
 <h3 align="left">Connect with me:</h3>
